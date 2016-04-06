@@ -1,0 +1,3 @@
+sudo apt-get install tree
+sudo apt-get install atom
+sudo apt-get install terminator
